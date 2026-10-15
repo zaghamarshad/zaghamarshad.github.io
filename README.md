@@ -26,5 +26,4 @@ served by Google AdMob and partner networks.
 ## 📱 About
 
 - **App name:** Black Friday 2025 ads & deals
-- **Developer:** Aamir Elahi
 - **Contact:** [reskinmania@gmail.com](mailto:reskinmania@gmail.com)
