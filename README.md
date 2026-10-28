@@ -1,3 +1,16 @@
+# App Support Site
+
+This repository is the GitHub Pages site that hosts support and privacy pages for my iOS apps. Each app has its own folder:
+
+- `sahih/` - Sahih
+- `scanfree/` - ScanFree
+- `cheapestfirst/` - Cheapest First
+- `streambox/` - StreamBox
+
+The support page below is for the Black Friday 2025 ads and deals app.
+
+---
+
 ## 📩 Contact Us
 
 For any questions, feedback, or support requests, reach out at:
