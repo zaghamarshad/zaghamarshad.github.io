@@ -9,6 +9,10 @@ This repository is the GitHub Pages site that hosts support and privacy pages fo
 
 The support page below is for the Black Friday 2025 ads and deals app.
 
+## Finding a support page
+
+Open the folder named for the app. Each folder holds that app's support and privacy pages, so a link that starts with the app name is the right place to look for contact details and privacy information for that app.
+
 ---
 
 ## 📩 Contact Us
