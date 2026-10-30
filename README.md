@@ -13,6 +13,10 @@ The support page below is for the Black Friday 2025 ads and deals app.
 
 Open the folder named for the app. Each folder holds that app's support and privacy pages, so a link that starts with the app name is the right place to look for contact details and privacy information for that app.
 
+## What a support page should hold
+
+Each app folder should hold a support page with a contact email and answers to common questions, and a privacy page that says what data the app collects and what any ad or analytics services collect. If a new app folder is added, add both pages and list the app in the overview at the top of this file, so the folder and the list stay in step.
+
 ---
 
 ## 📩 Contact Us
