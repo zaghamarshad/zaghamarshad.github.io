@@ -17,6 +17,10 @@ Open the folder named for the app. Each folder holds that app's support and priv
 
 Each app folder should hold a support page with a contact email and answers to common questions, and a privacy page that says what data the app collects and what any ad or analytics services collect. If a new app folder is added, add both pages and list the app in the overview at the top of this file, so the folder and the list stay in step.
 
+## Checking a page after publishing
+
+After a support or privacy page changes, open the live page once instead of trusting the file alone. Check that the page loads, the contact email link opens a mail draft to the right address, and any link to the privacy page lands on the page for the same app. A folder can be correct in the repo and still be linked from the wrong place on the live site.
+
 ---
 
 ## 📩 Contact Us
