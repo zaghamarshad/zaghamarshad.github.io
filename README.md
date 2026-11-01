@@ -21,6 +21,10 @@ Each app folder should hold a support page with a contact email and answers to c
 
 After a support or privacy page changes, open the live page once instead of trusting the file alone. Check that the page loads, the contact email link opens a mail draft to the right address, and any link to the privacy page lands on the page for the same app. A folder can be correct in the repo and still be linked from the wrong place on the live site.
 
+## When an app name or folder changes
+
+If an app is renamed or its folder moves, update the overview list at the top of this file and any link inside the app pages that points at the old folder name. Then open the live site and follow the link from the overview, because the old address will stop working as soon as the folder name changes. Check any place outside this repo that used the old address, such as the app listing, and update it to the new one.
+
 ---
 
 ## 📩 Contact Us
