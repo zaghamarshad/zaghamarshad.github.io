@@ -25,6 +25,10 @@ After a support or privacy page changes, open the live page once instead of trus
 
 If an app is renamed or its folder moves, update the overview list at the top of this file and any link inside the app pages that points at the old folder name. Then open the live site and follow the link from the overview, because the old address will stop working as soon as the folder name changes. Check any place outside this repo that used the old address, such as the app listing, and update it to the new one.
 
+## Adding a page for a new app
+
+Create a folder named for the app, add its support and privacy pages inside it, and add the app to the overview list at the top of this file in the same change. Then open the live folder address once to confirm the pages load under the new name before linking to them from the app listing.
+
 ---
 
 ## 📩 Contact Us
