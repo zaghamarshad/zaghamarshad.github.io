@@ -1,4 +1,13 @@
 {
- "items": [],
+ "items": [
+  {
+   "id": "deal-2026-11-05-bestbuy-us-lg-c6-oled",
+   "kind": "deal",
+   "title": "Deal: Best Buy LG 55-inch C6 OLED TV $999.99",
+   "video": "videos/deal-2026-11-05-bestbuy-us-lg-c6-oled.mp4",
+   "caption": "🇺🇸 Best Buy: LG 55-inch C6 OLED evo 4K TV $999.99 - save $1,000 (was $1,999.99)!\nGet the free Black Friday Countdown app - search 'Black Friday Countdown' on the App Store 📲\n#BlackFridayDeals #USAdeals #BestBuy #DealsOfTheDay #BlackFriday2026 #Savings",
+   "createdAt": "2026-11-05T10:42:00-05:00"
+  }
+ ],
  "version": 1
 }
