@@ -1,4 +1,13 @@
 {
- "items": [],
+ "items": [
+  {
+   "id": "deal-2026-11-06-bestbuy-ca-sony-xm5",
+   "kind": "deal",
+   "title": "Deal: Best Buy Sony WH-1000XM5 $348",
+   "video": "videos/deal-2026-11-06-bestbuy-ca-sony-xm5.mp4",
+   "caption": "🇨🇦 Best Buy Canada: Sony WH-1000XM5 Wireless Headphones $348, SAVE $152 (was $500), sale ends Nov 12!\nGet the free Black Friday Countdown app - search 'Black Friday Countdown' on the App Store 📲\n#BlackFridayDeals #CanadaDeals #BestBuyCanada #BlackFriday2026 #Savings #DealsOfTheDay",
+   "createdAt": "2026-11-06T10:42:00-05:00"
+  }
+ ],
  "version": 1
 }
