@@ -30,6 +30,10 @@ If an app is renamed or its folder moves, update the overview list at the top of
 Create a folder named for the app, add its support and privacy pages inside it, and add the app to the overview list at the top of this file in the same change. Then open the live folder address once to confirm the pages load under the new name before linking to them from the app listing.
 
 
+## Keeping support pages short and clear
+
+Write each support page for a person who just hit a problem in the app. Keep answers short, put the contact email near the top, and remove questions about features the app no longer has. A long page that mentions removed features sends readers to the wrong fix and makes the real answer harder to find.
+
 ## If the contact email changes
 
 Update the address in every app folder, not just the newest one, and in the contact section below. Then open one live page from each folder and use its email link once, so an old address does not stay live in a folder nobody has opened in a while.
