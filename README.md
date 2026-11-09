@@ -42,6 +42,10 @@ After a support or privacy URL is added to an app listing, open it from the list
 
 Update the address in every app folder, not just the newest one, and in the contact section below. Then open one live page from each folder and use its email link once, so an old address does not stay live in a folder nobody has opened in a while.
 
+## Checking a page on a phone
+
+Open each new or changed page on a phone once, not only on a desktop browser. Check that the text fits the screen, the contact email link can be tapped, and any link to the privacy page opens without scrolling sideways. Most readers reach these pages from the app on a phone, so a page that only works on a wide screen will fail the people who need it.
+
 ---
 
 ## 📩 Contact Us
