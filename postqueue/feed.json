@@ -1,45 +1,53 @@
 {
- "items": [
-  {
-   "id": "deal-2026-11-09-walmart-ca-asus-tuf-monitor",
-   "kind": "deal",
-   "title": "Deal: Walmart ASUS TUF 27-inch Gaming Monitor $150.00",
-   "video": "videos/deal-2026-11-09-walmart-ca-asus-tuf-monitor.mp4",
-   "caption": "🇨🇦 Walmart Canada: ASUS TUF 27-inch QHD 180Hz Gaming Monitor $150.00, SAVE $119.98 (was $269.98), live now at Walmart.ca!\nGet the free Black Friday Countdown app - search 'Black Friday Countdown' on the App Store 📲\n#BlackFridayDeals #CanadaDeals #WalmartCanada #BlackFriday2026 #Savings #DealsOfTheDay",
-   "createdAt": "2026-11-09T10:42:00-05:00"
-  },
-  {
-   "id": "countdown-2026-11-09",
-   "kind": "countdown",
-   "title": "Christmas Countdown — 46 days",
-   "video": "videos/countdown-2026-11-09-46days.mp4",
-   "caption": "🎄 46 days until Christmas! 🎅 Counting down every day — get the free Christmas Countdown app and watch the days melt away with live countdown, sleeps counter & Santa tracker.\n📲 App Store: https://apps.apple.com/app/id1058455664\n#ChristmasListIdeas #ChristmasCountdown #DaysUntilChristmas #Christmas2026 #GiftIdeas #AdventCalendar #SantaTracker #ChristmasIsComing",
-   "createdAt": "2026-11-09T09:42:00-05:00"
-  },
-  {
-   "id": "deal-2026-11-07-bestbuy-ca-bobsweep-dustin",
-   "kind": "deal",
-   "title": "Deal: Best Buy bObsweep Dustin Robot Vacuum $199.99",
-   "video": "videos/deal-2026-11-07-bestbuy-ca-bobsweep-dustin.mp4",
-   "caption": "🇨🇦 Best Buy Canada: bObsweep Dustin Robot Vacuum & Mop $199.99, SAVE $800 (was $999.99), sale ends Nov 17!\nGet the free Black Friday Countdown app - search 'Black Friday Countdown' on the App Store 📲\n#BlackFridayDeals #CanadaDeals #BestBuyCanada #BlackFriday2026 #Savings #DealsOfTheDay",
-   "createdAt": "2026-11-07T10:42:00-05:00"
-  },
-  {
-   "id": "countdown-2026-11-07",
-   "kind": "countdown",
-   "title": "Christmas Countdown — 48 days",
-   "video": "videos/countdown-2026-11-07-48days.mp4",
-   "caption": "🎄 48 days until Christmas! 🎅 Counting down every day — get the free Christmas Countdown app and watch the days melt away with live countdown, sleeps counter & Santa tracker.\n📲 App Store: https://apps.apple.com/app/id1058455664\n#ChristmasListIdeas #ChristmasCountdown #DaysUntilChristmas #Christmas2026 #GiftIdeas #AdventCalendar #SantaTracker #ChristmasIsComing",
-   "createdAt": "2026-11-07T09:42:00-05:00"
-  },
-  {
-   "id": "deal-2026-11-06-bestbuy-ca-sony-xm5",
-   "kind": "deal",
-   "title": "Deal: Best Buy Sony WH-1000XM5 $348",
-   "video": "videos/deal-2026-11-06-bestbuy-ca-sony-xm5.mp4",
-   "caption": "🇨🇦 Best Buy Canada: Sony WH-1000XM5 Wireless Headphones $348, SAVE $152 (was $500), sale ends Nov 12!\nGet the free Black Friday Countdown app - search 'Black Friday Countdown' on the App Store 📲\n#BlackFridayDeals #CanadaDeals #BestBuyCanada #BlackFriday2026 #Savings #DealsOfTheDay",
-   "createdAt": "2026-11-06T10:42:00-05:00"
-  }
- ],
- "version": 1
+  "items": [
+    {
+      "id": "deal-2026-11-10-bestbuy-us-tcl-m8lf-tv",
+      "kind": "deal",
+      "title": "Deal: Best Buy TCL 50-inch M8LF TV $329.99",
+      "video": "videos/deal-2026-11-10-bestbuy-us-tcl-m8lf-tv.mp4",
+      "caption": "🇺🇸 Best Buy USA: TCL 50-inch M8LF Mini LED Fire TV $329.99, SAVE $330 (was $659.99), live now!\nGet the free Black Friday Countdown app - search 'Black Friday Countdown' on the App Store 📲\n#BlackFridayDeals #USAdeals #BestBuy #DealsOfTheDay #BlackFriday2026 #Savings",
+      "createdAt": "2026-11-10T10:42:00-05:00"
+    },
+    {
+      "id": "deal-2026-11-09-walmart-ca-asus-tuf-monitor",
+      "kind": "deal",
+      "title": "Deal: Walmart ASUS TUF 27-inch Gaming Monitor $150.00",
+      "video": "videos/deal-2026-11-09-walmart-ca-asus-tuf-monitor.mp4",
+      "caption": "🇨🇦 Walmart Canada: ASUS TUF 27-inch QHD 180Hz Gaming Monitor $150.00, SAVE $119.98 (was $269.98), live now at Walmart.ca!\nGet the free Black Friday Countdown app - search 'Black Friday Countdown' on the App Store 📲\n#BlackFridayDeals #CanadaDeals #WalmartCanada #BlackFriday2026 #Savings #DealsOfTheDay",
+      "createdAt": "2026-11-09T10:42:00-05:00"
+    },
+    {
+      "id": "countdown-2026-11-09",
+      "kind": "countdown",
+      "title": "Christmas Countdown — 46 days",
+      "video": "videos/countdown-2026-11-09-46days.mp4",
+      "caption": "🎄 46 days until Christmas! 🎅 Counting down every day — get the free Christmas Countdown app and watch the days melt away with live countdown, sleeps counter & Santa tracker.\n📲 App Store: https://apps.apple.com/app/id1058455664\n#ChristmasListIdeas #ChristmasCountdown #DaysUntilChristmas #Christmas2026 #GiftIdeas #AdventCalendar #SantaTracker #ChristmasIsComing",
+      "createdAt": "2026-11-09T09:42:00-05:00"
+    },
+    {
+      "id": "deal-2026-11-07-bestbuy-ca-bobsweep-dustin",
+      "kind": "deal",
+      "title": "Deal: Best Buy bObsweep Dustin Robot Vacuum $199.99",
+      "video": "videos/deal-2026-11-07-bestbuy-ca-bobsweep-dustin.mp4",
+      "caption": "🇨🇦 Best Buy Canada: bObsweep Dustin Robot Vacuum & Mop $199.99, SAVE $800 (was $999.99), sale ends Nov 17!\nGet the free Black Friday Countdown app - search 'Black Friday Countdown' on the App Store 📲\n#BlackFridayDeals #CanadaDeals #BestBuyCanada #BlackFriday2026 #Savings #DealsOfTheDay",
+      "createdAt": "2026-11-07T10:42:00-05:00"
+    },
+    {
+      "id": "countdown-2026-11-07",
+      "kind": "countdown",
+      "title": "Christmas Countdown — 48 days",
+      "video": "videos/countdown-2026-11-07-48days.mp4",
+      "caption": "🎄 48 days until Christmas! 🎅 Counting down every day — get the free Christmas Countdown app and watch the days melt away with live countdown, sleeps counter & Santa tracker.\n📲 App Store: https://apps.apple.com/app/id1058455664\n#ChristmasListIdeas #ChristmasCountdown #DaysUntilChristmas #Christmas2026 #GiftIdeas #AdventCalendar #SantaTracker #ChristmasIsComing",
+      "createdAt": "2026-11-07T09:42:00-05:00"
+    },
+    {
+      "id": "deal-2026-11-06-bestbuy-ca-sony-xm5",
+      "kind": "deal",
+      "title": "Deal: Best Buy Sony WH-1000XM5 $348",
+      "video": "videos/deal-2026-11-06-bestbuy-ca-sony-xm5.mp4",
+      "caption": "🇨🇦 Best Buy Canada: Sony WH-1000XM5 Wireless Headphones $348, SAVE $152 (was $500), sale ends Nov 12!\nGet the free Black Friday Countdown app - search 'Black Friday Countdown' on the App Store 📲\n#BlackFridayDeals #CanadaDeals #BestBuyCanada #BlackFriday2026 #Savings #DealsOfTheDay",
+      "createdAt": "2026-11-06T10:42:00-05:00"
+    }
+  ],
+  "version": 1
 }
