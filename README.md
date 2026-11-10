@@ -46,6 +46,10 @@ Update the address in every app folder, not just the newest one, and in the cont
 
 Open each new or changed page on a phone once, not only on a desktop browser. Check that the text fits the screen, the contact email link can be tapped, and any link to the privacy page opens without scrolling sideways. Most readers reach these pages from the app on a phone, so a page that only works on a wide screen will fail the people who need it.
 
+## Before removing a page for an old app
+
+If an app is removed from sale, check before deleting its folder. The app listing and old update notes may still point at the support page, and users who already have the app may still need the privacy page. Keep the pages in place while the app can still be in use, and remove a folder only after the listing no longer links to it and a search of this repo shows no other page linking to it either.
+
 ---
 
 ## 📩 Contact Us
