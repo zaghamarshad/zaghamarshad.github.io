@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "id": "countdown-2026-11-10",
+      "kind": "countdown",
+      "title": "Christmas Countdown — 45 days",
+      "video": "videos/countdown-2026-11-10-45days.mp4",
+      "caption": "🎄 45 days until Christmas! 🎅 Counting down every day — get the free Christmas Countdown app and watch the days melt away with live countdown, sleeps counter & Santa tracker.\n📲 App Store: https://apps.apple.com/app/id1058455664\n#ChristmasListIdeas #ChristmasCountdown #DaysUntilChristmas #Christmas2026 #GiftIdeas #AdventCalendar #SantaTracker #ChristmasIsComing",
+      "createdAt": "2026-11-10T09:42:00-05:00"
+    },
+    {
       "id": "deal-2026-11-10-bestbuy-us-tcl-m8lf-tv",
       "kind": "deal",
       "title": "Deal: Best Buy TCL 50-inch M8LF TV $329.99",
