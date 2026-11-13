@@ -50,6 +50,10 @@ Open each new or changed page on a phone once, not only on a desktop browser. Ch
 
 If an app is removed from sale, check before deleting its folder. The app listing and old update notes may still point at the support page, and users who already have the app may still need the privacy page. Keep the pages in place while the app can still be in use, and remove a folder only after the listing no longer links to it and a search of this repo shows no other page linking to it either.
 
+## Keeping the privacy page in step with the app
+
+When an app update adds a new ad, analytics, or crash reporting service, update that app's privacy page in the same release. Check that the page still names what data the service collects and why, and open the live page once after publishing so the listing and the page do not drift apart.
+
 ---
 
 ## 📩 Contact Us
