@@ -7,7 +7,7 @@ This repository is the GitHub Pages site that hosts support and privacy pages fo
 - `cheapestfirst/` - Cheapest First
 - `streambox/` - StreamBox
 
-The support page below is for the Black Friday 2025 ads and deals app.
+The support page below is for the Black Friday 2026 app.
 
 ## Finding a support page
 
@@ -67,21 +67,22 @@ We usually respond within 24-48 hours.
 ## ❓ Frequently Asked Questions
 
 **Q: Is the app free?**
-A: Yes, the app is completely free to download and use.
+A: Yes, the app is free to download and use. An optional one-time Pro unlock ($4.99, no subscription) removes ads, unlocks an unlimited watchlist, and gives you early alerts.
 
 **Q: How often are deals updated?**
-A: Deals and ads are refreshed regularly so you never miss the latest offers.
+A: Deals are curated and updated through the season, from Black Friday (Nov 27) to Cyber Monday (Nov 30) and Boxing Day (Dec 26), so you never miss the latest offers.
 
 **Q: Why does the app show ads?**
-A: Ads keep the app free for everyone. Thank you for your support!
+A: Ads keep the app free for everyone. If you prefer no ads, the one-time Pro unlock removes them. Thank you for your support!
 
 ## 🔒 Privacy
 
-We take your privacy seriously. The app does not collect or store any personal 
-information beyond what is described in the App Store privacy label. Ads are 
-served by Google AdMob and partner networks.
+We take your privacy seriously. The app does not collect or store any personal
+information beyond what is described in the App Store privacy label. Ads are
+served by Google AdMob, which uses your device identifier and usage data for
+third-party advertising.
 
 ## 📱 About
 
-- **App name:** Black Friday 2025 ads & deals
+- **App name:** Black Friday 2026
 - **Contact:** [reskinmania@gmail.com](mailto:reskinmania@gmail.com)
