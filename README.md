@@ -54,6 +54,10 @@ If an app is removed from sale, check before deleting its folder. The app listin
 
 When an app update adds a new ad, analytics, or crash reporting service, update that app's privacy page in the same release. Check that the page still names what data the service collects and why, and open the live page once after publishing so the listing and the page do not drift apart.
 
+## Keeping a record of page changes
+
+When a support or privacy page changes, note the date, the app folder, and what was changed in the commit message. Then open the live page once to confirm the change is the one showing. A short record like that makes it clear which version of a page a reader saw, and stops the same fix being made twice in different folders.
+
 ---
 
 ## 📩 Contact Us
