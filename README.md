@@ -58,6 +58,10 @@ When an app update adds a new ad, analytics, or crash reporting service, update 
 
 When a support or privacy page changes, note the date, the app folder, and what was changed in the commit message. Then open the live page once to confirm the change is the one showing. A short record like that makes it clear which version of a page a reader saw, and stops the same fix being made twice in different folders.
 
+## When a user reports a broken page
+
+If a user writes in about a support or privacy link that does not work, ask which app they were using and which link they tapped, then open that exact link yourself instead of the folder you expect it to be. Check whether the page loads, whether it is the page for that app, and whether the contact email on it works. Fix the link or the folder name that caused it, then open the fixed link once more before replying, so the answer points at a page that has been checked.
+
 ---
 
 ## 📩 Contact Us
