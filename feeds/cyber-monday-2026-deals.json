@@ -1,4 +1,7 @@
 {
+    "ads": {
+        "detailInterstitialEvery": 3
+    },
     "deals": [
         {
             "category": "Laptops & Computers",
