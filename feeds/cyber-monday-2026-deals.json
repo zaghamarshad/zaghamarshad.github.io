@@ -1,128 +1,128 @@
 {
-    "ads": {
-        "detailInterstitialEvery": 3
+  "ads": {
+    "detailInterstitialEvery": 1
+  },
+  "deals": [
+    {
+      "category": "Laptops & Computers",
+      "details": "Apple's M3 chip in a fanless aluminium body with a 13.6-inch Liquid Retina display, rated for up to 18 hours of battery life.",
+      "id": "macbook-air-13-m3",
+      "price": 749,
+      "store": "Best Buy",
+      "title": "MacBook Air 13\" (M3)",
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=macbook+air+m3",
+      "wasPrice": 1099
     },
-    "deals": [
-        {
-            "category": "Laptops & Computers",
-            "details": "Apple's M3 chip in a fanless aluminium body with a 13.6-inch Liquid Retina display, rated for up to 18 hours of battery life.",
-            "id": "macbook-air-13-m3",
-            "price": 749,
-            "store": "Best Buy",
-            "title": "MacBook Air 13\" (M3)",
-            "url": "https://www.bestbuy.com/site/searchpage.jsp?st=macbook+air+m3",
-            "wasPrice": 1099
-        },
-        {
-            "category": "Headphones & Audio",
-            "details": "Bose's flagship over-ear headphones, with immersive spatial audio and adaptive noise cancelling that adjusts to your surroundings.",
-            "id": "bose-quietcomfort-ultra-headphones",
-            "price": 279,
-            "store": "Amazon",
-            "title": "Bose QuietComfort Ultra Headphones",
-            "url": "https://www.amazon.com/s?k=bose+quietcomfort+ultra",
-            "wasPrice": 429
-        },
-        {
-            "category": "Tech & TVs",
-            "details": "A 65-inch QD-Mini LED 4K TV with local dimming and up to a 144Hz refresh rate, running Google TV with hands-free voice control.",
-            "id": "tcl-65-qm7-4k-tv",
-            "price": 698,
-            "store": "Walmart",
-            "title": "TCL 65\" QM7 4K TV",
-            "url": "https://www.walmart.com/search?q=tcl+65+qm7",
-            "wasPrice": 1199
-        },
-        {
-            "category": "Home & Kitchen",
-            "details": "Roborock's sonic-mopping robot vacuum with 6,000Pa suction and reactive obstacle avoidance, controlled from the Roborock app.",
-            "id": "roborock-s8-robot-vacuum",
-            "price": 399,
-            "store": "Amazon",
-            "title": "Roborock S8 Robot Vacuum",
-            "url": "https://www.amazon.com/s?k=roborock+s8",
-            "wasPrice": 749
-        },
-        {
-            "category": "Tech & TVs",
-            "details": "Samsung's smartwatch with Galaxy AI health insights, sleep coaching and dual-frequency GPS for more accurate run tracking.",
-            "id": "samsung-galaxy-watch-7",
-            "price": 219,
-            "store": "Best Buy",
-            "title": "Samsung Galaxy Watch 7",
-            "url": "https://www.bestbuy.com/site/searchpage.jsp?st=galaxy+watch+7",
-            "wasPrice": 329
-        },
-        {
-            "category": "Home & Kitchen",
-            "details": "A 4-quart air fryer that also roasts, reheats and dehydrates, with a dishwasher-safe nonstick basket and crisper plate.",
-            "id": "ninja-air-fryer-af101-4qt",
-            "price": 79,
-            "store": "Amazon",
-            "title": "Ninja Air Fryer AF101 4QT",
-            "url": "https://www.amazon.com/s?k=ninja+air+fryer+af101",
-            "wasPrice": 129
-        },
-        {
-            "category": "Headphones & Audio",
-            "details": "Sony's flagship noise-cancelling over-ears, with up to 30 hours of battery life and multipoint Bluetooth for two devices at once.",
-            "id": "sony-wh-1000xm5-headphones",
-            "price": 248,
-            "store": "Amazon",
-            "title": "Sony WH-1000XM5 Headphones",
-            "url": "https://www.amazon.com/s?k=sony+wh-1000xm5",
-            "wasPrice": 399
-        },
-        {
-            "category": "Gaming",
-            "details": "The PlayStation 5 controller, with haptic feedback and adaptive triggers. Also pairs with PC, Mac and mobile over Bluetooth or USB-C.",
-            "id": "dualsense-wireless-controller",
-            "price": 54,
-            "store": "Amazon",
-            "title": "DualSense Wireless Controller",
-            "url": "https://www.amazon.com/s?k=dualsense+controller",
-            "wasPrice": 74
-        },
-        {
-            "category": "Gaming",
-            "details": "Meta's mixed-reality headset with colour passthrough and Touch Plus controllers included, powered by the Snapdragon XR2 Gen 2 chip.",
-            "id": "meta-quest-3s-128gb",
-            "price": 249,
-            "store": "Walmart",
-            "title": "Meta Quest 3S 128GB",
-            "url": "https://www.walmart.com/search?q=meta+quest+3s",
-            "wasPrice": 299
-        },
-        {
-            "category": "Home & Kitchen",
-            "details": "The 7-in-1 electric pressure cooker: pressure cook, slow cook, rice cooker, steamer, saut\u00e9 pan, yogurt maker and warmer in a 6-quart pot.",
-            "id": "instant-pot-duo-6qt",
-            "price": 59,
-            "store": "Amazon",
-            "title": "Instant Pot Duo 6QT",
-            "url": "https://www.amazon.com/s?k=instant+pot+duo",
-            "wasPrice": 99
-        },
-        {
-            "category": "Flights & Travel",
-            "details": "Fares move fast and vary by date and airport \u2014 JFK, LaGuardia and Newark all serve the city. The link opens Google Flights to compare live prices for your dates.",
-            "id": "flights-to-new-york",
-            "price": 118,
-            "store": "Google Flights",
-            "title": "Flights to New York",
-            "url": "https://www.google.com/travel/flights?q=flights+to+new+york",
-            "wasPrice": 210
-        },
-        {
-            "category": "Flights & Travel",
-            "details": "Fares move fast and vary by date and airport \u2014 LAX plus Burbank, Long Beach and Orange County. The link opens Google Flights to compare live prices for your dates.",
-            "id": "flights-to-los-angeles",
-            "price": 142,
-            "store": "Google Flights",
-            "title": "Flights to Los Angeles",
-            "url": "https://www.google.com/travel/flights?q=flights+to+los+angeles",
-            "wasPrice": 260
-        }
-    ],
-    "updated": "2026-11-19"
+    {
+      "category": "Headphones & Audio",
+      "details": "Bose's flagship over-ear headphones, with immersive spatial audio and adaptive noise cancelling that adjusts to your surroundings.",
+      "id": "bose-quietcomfort-ultra-headphones",
+      "price": 279,
+      "store": "Amazon",
+      "title": "Bose QuietComfort Ultra Headphones",
+      "url": "https://www.amazon.com/s?k=bose+quietcomfort+ultra",
+      "wasPrice": 429
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "A 65-inch QD-Mini LED 4K TV with local dimming and up to a 144Hz refresh rate, running Google TV with hands-free voice control.",
+      "id": "tcl-65-qm7-4k-tv",
+      "price": 698,
+      "store": "Walmart",
+      "title": "TCL 65\" QM7 4K TV",
+      "url": "https://www.walmart.com/search?q=tcl+65+qm7",
+      "wasPrice": 1199
+    },
+    {
+      "category": "Home & Kitchen",
+      "details": "Roborock's sonic-mopping robot vacuum with 6,000Pa suction and reactive obstacle avoidance, controlled from the Roborock app.",
+      "id": "roborock-s8-robot-vacuum",
+      "price": 399,
+      "store": "Amazon",
+      "title": "Roborock S8 Robot Vacuum",
+      "url": "https://www.amazon.com/s?k=roborock+s8",
+      "wasPrice": 749
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "Samsung's smartwatch with Galaxy AI health insights, sleep coaching and dual-frequency GPS for more accurate run tracking.",
+      "id": "samsung-galaxy-watch-7",
+      "price": 219,
+      "store": "Best Buy",
+      "title": "Samsung Galaxy Watch 7",
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=galaxy+watch+7",
+      "wasPrice": 329
+    },
+    {
+      "category": "Home & Kitchen",
+      "details": "A 4-quart air fryer that also roasts, reheats and dehydrates, with a dishwasher-safe nonstick basket and crisper plate.",
+      "id": "ninja-air-fryer-af101-4qt",
+      "price": 79,
+      "store": "Amazon",
+      "title": "Ninja Air Fryer AF101 4QT",
+      "url": "https://www.amazon.com/s?k=ninja+air+fryer+af101",
+      "wasPrice": 129
+    },
+    {
+      "category": "Headphones & Audio",
+      "details": "Sony's flagship noise-cancelling over-ears, with up to 30 hours of battery life and multipoint Bluetooth for two devices at once.",
+      "id": "sony-wh-1000xm5-headphones",
+      "price": 248,
+      "store": "Amazon",
+      "title": "Sony WH-1000XM5 Headphones",
+      "url": "https://www.amazon.com/s?k=sony+wh-1000xm5",
+      "wasPrice": 399
+    },
+    {
+      "category": "Gaming",
+      "details": "The PlayStation 5 controller, with haptic feedback and adaptive triggers. Also pairs with PC, Mac and mobile over Bluetooth or USB-C.",
+      "id": "dualsense-wireless-controller",
+      "price": 54,
+      "store": "Amazon",
+      "title": "DualSense Wireless Controller",
+      "url": "https://www.amazon.com/s?k=dualsense+controller",
+      "wasPrice": 74
+    },
+    {
+      "category": "Gaming",
+      "details": "Meta's mixed-reality headset with colour passthrough and Touch Plus controllers included, powered by the Snapdragon XR2 Gen 2 chip.",
+      "id": "meta-quest-3s-128gb",
+      "price": 249,
+      "store": "Walmart",
+      "title": "Meta Quest 3S 128GB",
+      "url": "https://www.walmart.com/search?q=meta+quest+3s",
+      "wasPrice": 299
+    },
+    {
+      "category": "Home & Kitchen",
+      "details": "The 7-in-1 electric pressure cooker: pressure cook, slow cook, rice cooker, steamer, sauté pan, yogurt maker and warmer in a 6-quart pot.",
+      "id": "instant-pot-duo-6qt",
+      "price": 59,
+      "store": "Amazon",
+      "title": "Instant Pot Duo 6QT",
+      "url": "https://www.amazon.com/s?k=instant+pot+duo",
+      "wasPrice": 99
+    },
+    {
+      "category": "Flights & Travel",
+      "details": "Fares move fast and vary by date and airport — JFK, LaGuardia and Newark all serve the city. The link opens Google Flights to compare live prices for your dates.",
+      "id": "flights-to-new-york",
+      "price": 118,
+      "store": "Google Flights",
+      "title": "Flights to New York",
+      "url": "https://www.google.com/travel/flights?q=flights+to+new+york",
+      "wasPrice": 210
+    },
+    {
+      "category": "Flights & Travel",
+      "details": "Fares move fast and vary by date and airport — LAX plus Burbank, Long Beach and Orange County. The link opens Google Flights to compare live prices for your dates.",
+      "id": "flights-to-los-angeles",
+      "price": 142,
+      "store": "Google Flights",
+      "title": "Flights to Los Angeles",
+      "url": "https://www.google.com/travel/flights?q=flights+to+los+angeles",
+      "wasPrice": 260
+    }
+  ],
+  "updated": "2026-11-19"
 }
