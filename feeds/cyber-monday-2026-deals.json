@@ -5,69 +5,59 @@
   "deals": [
     {
       "category": "Laptops & Computers",
-      "details": "Apple's M3 chip in a fanless aluminium body with a 13.6-inch Liquid Retina display, rated for up to 18 hours of battery life.",
-      "id": "macbook-air-13-m3",
+      "details": "Apple's thin-and-light 13-inch laptop with the M4 chip and all-day battery life — $250 off at Amazon, matching its lowest price.",
+      "id": "macbook-air-13-m4",
       "price": 749,
-      "store": "Best Buy",
-      "title": "MacBook Air 13\" (M3)",
-      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=macbook+air+m3",
-      "wasPrice": 1099
+      "store": "Amazon",
+      "title": "Apple MacBook Air 13\" (M4 Chip)",
+      "url": "https://www.amazon.com/s?k=macbook+air+m4",
+      "wasPrice": 999
     },
     {
       "category": "Headphones & Audio",
-      "details": "Bose's flagship over-ear headphones, with immersive spatial audio and adaptive noise cancelling that adjusts to your surroundings.",
+      "details": "Bose's flagship noise-cancelling headphones with immersive spatial audio and plush, all-day comfort.",
       "id": "bose-quietcomfort-ultra-headphones",
-      "price": 279,
+      "price": 369,
       "store": "Amazon",
       "title": "Bose QuietComfort Ultra Headphones",
-      "url": "https://www.amazon.com/s?k=bose+quietcomfort+ultra",
-      "wasPrice": 429
+      "url": "https://www.amazon.com/s?k=bose+quietcomfort+ultra+headphones",
+      "wasPrice": 449
     },
     {
       "category": "Tech & TVs",
-      "details": "A 65-inch QD-Mini LED 4K TV with local dimming and up to a 144Hz refresh rate, running Google TV with hands-free voice control.",
-      "id": "tcl-65-qm7-4k-tv",
-      "price": 698,
-      "store": "Walmart",
-      "title": "TCL 65\" QM7 4K TV",
-      "url": "https://www.walmart.com/search?q=tcl+65+qm7",
-      "wasPrice": 1199
+      "details": "TCL's 65-inch SQD-Mini LED 4K TV with Google TV and Gemini built in — Best Buy's Black Friday price is $650 under its $1,499.99 comp value.",
+      "id": "tcl-65-qm7l-4k-tv",
+      "price": 849,
+      "store": "Best Buy",
+      "title": "TCL 65\" QM7L 4K TV",
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=tcl+65+qm7l",
+      "wasPrice": 1499
     },
     {
       "category": "Home & Kitchen",
-      "details": "Roborock's sonic-mopping robot vacuum with 6,000Pa suction and reactive obstacle avoidance, controlled from the Roborock app.",
-      "id": "roborock-s8-robot-vacuum",
+      "details": "Roborock's flagship robot vacuum with 8,000Pa suction, LiDAR navigation and a self-emptying all-in-one dock — down from $1,299.99 on Amazon.",
+      "id": "roborock-s8-max-ultra",
       "price": 399,
       "store": "Amazon",
-      "title": "Roborock S8 Robot Vacuum",
-      "url": "https://www.amazon.com/s?k=roborock+s8",
-      "wasPrice": 749
+      "title": "Roborock S8 Max Ultra Robot Vacuum",
+      "url": "https://www.amazon.com/s?k=roborock+s8+max+ultra",
+      "wasPrice": 1299
     },
     {
       "category": "Tech & TVs",
-      "details": "Samsung's smartwatch with Galaxy AI health insights, sleep coaching and dual-frequency GPS for more accurate run tracking.",
+      "details": "Samsung's 40mm smartwatch with advanced health tracking, sleep coaching and a bright AMOLED display.",
       "id": "samsung-galaxy-watch-7",
-      "price": 219,
+      "price": 149,
       "store": "Best Buy",
-      "title": "Samsung Galaxy Watch 7",
-      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=galaxy+watch+7",
-      "wasPrice": 329
-    },
-    {
-      "category": "Home & Kitchen",
-      "details": "A 4-quart air fryer that also roasts, reheats and dehydrates, with a dishwasher-safe nonstick basket and crisper plate.",
-      "id": "ninja-air-fryer-af101-4qt",
-      "price": 79,
-      "store": "Amazon",
-      "title": "Ninja Air Fryer AF101 4QT",
-      "url": "https://www.amazon.com/s?k=ninja+air+fryer+af101",
-      "wasPrice": 129
+      "title": "Samsung Galaxy Watch 7 (40mm)",
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=samsung+galaxy+watch+7",
+      "wasPrice": 249
     },
     {
       "category": "Headphones & Audio",
-      "details": "Sony's flagship noise-cancelling over-ears, with up to 30 hours of battery life and multipoint Bluetooth for two devices at once.",
+      "details": "Sony's much-loved noise-cancelling headphones with 30-hour battery life and crystal-clear hands-free calling.",
       "id": "sony-wh-1000xm5-headphones",
-      "price": 248,
+      "price": 229,
       "store": "Amazon",
       "title": "Sony WH-1000XM5 Headphones",
       "url": "https://www.amazon.com/s?k=sony+wh-1000xm5",
@@ -75,37 +65,127 @@
     },
     {
       "category": "Gaming",
-      "details": "The PlayStation 5 controller, with haptic feedback and adaptive triggers. Also pairs with PC, Mac and mobile over Bluetooth or USB-C.",
+      "details": "Sony's PS5 controller with haptic feedback and adaptive triggers — rarely discounted this far below list.",
       "id": "dualsense-wireless-controller",
       "price": 54,
       "store": "Amazon",
-      "title": "DualSense Wireless Controller",
+      "title": "PlayStation DualSense Controller",
       "url": "https://www.amazon.com/s?k=dualsense+controller",
       "wasPrice": 74
     },
     {
       "category": "Gaming",
-      "details": "Meta's mixed-reality headset with colour passthrough and Touch Plus controllers included, powered by the Snapdragon XR2 Gen 2 chip.",
+      "details": "Meta's standalone VR headset with a huge library of games and mixed-reality experiences — no console or PC needed.",
       "id": "meta-quest-3s-128gb",
-      "price": 249,
+      "price": 297,
       "store": "Walmart",
-      "title": "Meta Quest 3S 128GB",
+      "title": "Meta Quest 3S (128 GB)",
       "url": "https://www.walmart.com/search?q=meta+quest+3s",
-      "wasPrice": 299
+      "wasPrice": 349
     },
     {
       "category": "Home & Kitchen",
-      "details": "The 7-in-1 electric pressure cooker: pressure cook, slow cook, rice cooker, steamer, sauté pan, yogurt maker and warmer in a 6-quart pot.",
+      "details": "The 7-in-1 pressure cooker that pressure cooks, slow cooks, steams and more — a weeknight dinner shortcut.",
       "id": "instant-pot-duo-6qt",
-      "price": 59,
+      "price": 96,
       "store": "Amazon",
-      "title": "Instant Pot Duo 6QT",
-      "url": "https://www.amazon.com/s?k=instant+pot+duo",
-      "wasPrice": 99
+      "title": "Instant Pot Duo 6-Qt Pressure Cooker",
+      "url": "https://www.amazon.com/s?k=instant+pot+duo+6+quart",
+      "wasPrice": 109
+    },
+    {
+      "category": "Headphones & Audio",
+      "details": "Apple's flagship earbuds with active noise cancelling, spatial audio and heart-rate sensing during workouts — $70 off for Black Friday week.",
+      "id": "airpods-pro-3",
+      "price": 179,
+      "store": "Amazon",
+      "title": "Apple AirPods Pro 3",
+      "url": "https://www.amazon.com/s?k=airpods+pro+3",
+      "wasPrice": 249
+    },
+    {
+      "category": "Headphones & Audio",
+      "details": "Beats' over-ear headphones with active noise cancelling and up to 40 hours of battery — from $139.95 in select colors, over half off.",
+      "id": "beats-studio-pro-headphones",
+      "price": 139,
+      "store": "Amazon",
+      "title": "Beats Studio Pro Headphones",
+      "url": "https://www.amazon.com/s?k=beats+studio+pro",
+      "wasPrice": 299
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "Apple's newest smartwatch with health, fitness and sleep tracking — the 42mm GPS model is $70 off, its lowest price ever.",
+      "id": "apple-watch-series-12",
+      "price": 329,
+      "store": "Amazon",
+      "title": "Apple Watch Series 12 (42mm, GPS)",
+      "url": "https://www.amazon.com/s?k=apple+watch+series+12",
+      "wasPrice": 399
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "Amazon's newest 4K streaming stick with Wi-Fi 6 and an Alexa voice remote — at $19.99, the lowest price it has ever been.",
+      "id": "fire-tv-stick-4k-2026",
+      "price": 19,
+      "store": "Amazon",
+      "title": "Amazon Fire TV Stick 4K (2026)",
+      "url": "https://www.amazon.com/s?k=fire+tv+stick+4k",
+      "wasPrice": 59
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "Amazon's color e-reader with a 7-inch glare-free display, 16GB of storage and weeks of battery per charge — at its lowest price ever.",
+      "id": "kindle-colorsoft-16gb",
+      "price": 169,
+      "store": "Amazon",
+      "title": "Amazon Kindle Colorsoft (16 GB)",
+      "url": "https://www.amazon.com/s?k=kindle+colorsoft",
+      "wasPrice": 289
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "Apple's 11-inch iPad Air with the M3 chip, Liquid Retina display and all-day battery — $150 off, matching its lowest price.",
+      "id": "ipad-air-11-m3",
+      "price": 449,
+      "store": "Amazon",
+      "title": "Apple iPad Air 11\" (M3 Chip)",
+      "url": "https://www.amazon.com/s?k=ipad+air+m3",
+      "wasPrice": 599
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "A 65-inch Mini-LED 4K Fire TV with a native 144Hz panel, Dolby Vision IQ and a built-in subwoofer — 51% off, tying its lowest price ever.",
+      "id": "hisense-65-u6-pro-tv",
+      "price": 529,
+      "store": "Amazon",
+      "title": "Hisense 65\" U6 Pro Mini-LED 4K TV",
+      "url": "https://www.amazon.com/s?k=hisense+65+u6+pro",
+      "wasPrice": 1099
+    },
+    {
+      "category": "Home & Kitchen",
+      "details": "KitchenAid's classic 5-quart tilt-head stand mixer with 10 speeds and a pouring shield — $150 off in select colors.",
+      "id": "kitchenaid-artisan-5qt-mixer",
+      "price": 349,
+      "store": "Amazon",
+      "title": "KitchenAid Artisan 5-Qt Stand Mixer",
+      "url": "https://www.amazon.com/s?k=kitchenaid+artisan+stand+mixer",
+      "wasPrice": 499
+    },
+    {
+      "category": "Home & Kitchen",
+      "details": "Dyson's lightweight cordless stick vacuum with a de-tangling Motorbar head — converts to a handheld and runs up to 40 minutes per charge.",
+      "id": "dyson-v8-cordless-vacuum",
+      "price": 279,
+      "store": "Amazon",
+      "title": "Dyson V8 Cordless Vacuum",
+      "url": "https://www.amazon.com/s?k=dyson+v8",
+      "wasPrice": 389
     },
     {
       "category": "Flights & Travel",
-      "details": "Fares move fast and vary by date and airport — JFK, LaGuardia and Newark all serve the city. The link opens Google Flights to compare live prices for your dates.",
+      "details": "Compare live fares to New York across airlines in Google Flights. Prices move fast — the cheapest dates go first.",
       "id": "flights-to-new-york",
       "price": 118,
       "store": "Google Flights",
@@ -115,7 +195,7 @@
     },
     {
       "category": "Flights & Travel",
-      "details": "Fares move fast and vary by date and airport — LAX plus Burbank, Long Beach and Orange County. The link opens Google Flights to compare live prices for your dates.",
+      "details": "Compare live fares to Los Angeles across airlines in Google Flights. Prices move fast — the cheapest dates go first.",
       "id": "flights-to-los-angeles",
       "price": 142,
       "store": "Google Flights",
@@ -124,5 +204,5 @@
       "wasPrice": 260
     }
   ],
-  "updated": "2026-11-19"
+  "updated": "2026-11-21"
 }
