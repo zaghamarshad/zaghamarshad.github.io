@@ -5,7 +5,7 @@
   "deals": [
     {
       "category": "Laptops & Computers",
-      "details": "Apple's thin-and-light 13-inch laptop with the M4 chip and all-day battery life \u2014 $250 off at Amazon, matching its lowest price.",
+      "details": "Apple's thin-and-light 13-inch laptop with the M4 chip and all-day battery life — $250 off at Amazon, matching its lowest price.",
       "id": "macbook-air-13-m4",
       "price": 749,
       "store": "Amazon",
@@ -25,7 +25,7 @@
     },
     {
       "category": "Tech & TVs",
-      "details": "TCL's 65-inch SQD-Mini LED 4K TV with Google TV and Gemini built in \u2014 Best Buy's Black Friday price is $650 under its $1,499.99 comp value.",
+      "details": "TCL's 65-inch SQD-Mini LED 4K TV with Google TV and Gemini built in — Best Buy's Black Friday price is $650 under its $1,499.99 comp value.",
       "id": "tcl-65-qm7l-4k-tv",
       "price": 849,
       "store": "Best Buy",
@@ -55,7 +55,7 @@
     },
     {
       "category": "Gaming",
-      "details": "Sony's PS5 controller with haptic feedback and adaptive triggers \u2014 rarely discounted this far below list.",
+      "details": "Sony's PS5 controller with haptic feedback and adaptive triggers — rarely discounted this far below list.",
       "id": "dualsense-wireless-controller",
       "price": 54,
       "store": "Amazon",
@@ -65,7 +65,7 @@
     },
     {
       "category": "Gaming",
-      "details": "Meta's standalone VR headset with a huge library of games and mixed-reality experiences \u2014 no console or PC needed.",
+      "details": "Meta's standalone VR headset with a huge library of games and mixed-reality experiences — no console or PC needed.",
       "id": "meta-quest-3s-128gb",
       "price": 297,
       "store": "Walmart",
@@ -75,7 +75,7 @@
     },
     {
       "category": "Home & Kitchen",
-      "details": "The 7-in-1 pressure cooker that pressure cooks, slow cooks, steams and more \u2014 a weeknight dinner shortcut.",
+      "details": "The 7-in-1 pressure cooker that pressure cooks, slow cooks, steams and more — a weeknight dinner shortcut.",
       "id": "instant-pot-duo-6qt",
       "price": 96,
       "store": "Amazon",
@@ -85,7 +85,7 @@
     },
     {
       "category": "Headphones & Audio",
-      "details": "Apple's flagship earbuds with active noise cancelling, spatial audio and heart-rate sensing during workouts \u2014 $70 off for Black Friday week.",
+      "details": "Apple's flagship earbuds with active noise cancelling, spatial audio and heart-rate sensing during workouts — $70 off for Black Friday week.",
       "id": "airpods-pro-3",
       "price": 179,
       "store": "Amazon",
@@ -95,7 +95,7 @@
     },
     {
       "category": "Headphones & Audio",
-      "details": "Beats' over-ear headphones with active noise cancelling and up to 40 hours of battery \u2014 from $139.95 in select colors, over half off.",
+      "details": "Beats' over-ear headphones with active noise cancelling and up to 40 hours of battery — from $139.95 in select colors, over half off.",
       "id": "beats-studio-pro-headphones",
       "price": 139,
       "store": "Amazon",
@@ -105,7 +105,7 @@
     },
     {
       "category": "Tech & TVs",
-      "details": "Apple's newest smartwatch with health, fitness and sleep tracking \u2014 the 42mm GPS model is $70 off, its lowest price ever.",
+      "details": "Apple's newest smartwatch with health, fitness and sleep tracking — the 42mm GPS model is $70 off, its lowest price ever.",
       "id": "apple-watch-series-12",
       "price": 329,
       "store": "Amazon",
@@ -115,7 +115,7 @@
     },
     {
       "category": "Tech & TVs",
-      "details": "Amazon's newest 4K streaming stick with Wi-Fi 6 and an Alexa voice remote \u2014 at $19.99, the lowest price it has ever been.",
+      "details": "Amazon's newest 4K streaming stick with Wi-Fi 6 and an Alexa voice remote — at $19.99, the lowest price it has ever been.",
       "id": "fire-tv-stick-4k-2026",
       "price": 19,
       "store": "Amazon",
@@ -125,7 +125,7 @@
     },
     {
       "category": "Tech & TVs",
-      "details": "Amazon's color e-reader with a 7-inch glare-free display, 16GB of storage and weeks of battery per charge \u2014 at its lowest price ever.",
+      "details": "Amazon's color e-reader with a 7-inch glare-free display, 16GB of storage and weeks of battery per charge — at its lowest price ever.",
       "id": "kindle-colorsoft-16gb",
       "price": 169,
       "store": "Amazon",
@@ -135,7 +135,7 @@
     },
     {
       "category": "Tech & TVs",
-      "details": "Apple's 11-inch iPad Air with the M3 chip, Liquid Retina display and all-day battery \u2014 $150 off, matching its lowest price.",
+      "details": "Apple's 11-inch iPad Air with the M3 chip, Liquid Retina display and all-day battery — $150 off, matching its lowest price.",
       "id": "ipad-air-11-m3",
       "price": 449,
       "store": "Amazon",
@@ -145,7 +145,7 @@
     },
     {
       "category": "Tech & TVs",
-      "details": "A 65-inch Mini-LED 4K Fire TV with a native 144Hz panel, Dolby Vision IQ and a built-in subwoofer \u2014 51% off, tying its lowest price ever.",
+      "details": "A 65-inch Mini-LED 4K Fire TV with a native 144Hz panel, Dolby Vision IQ and a built-in subwoofer — 51% off, tying its lowest price ever.",
       "id": "hisense-65-u6-pro-tv",
       "price": 529,
       "store": "Amazon",
@@ -155,7 +155,7 @@
     },
     {
       "category": "Home & Kitchen",
-      "details": "KitchenAid's classic 5-quart tilt-head stand mixer with 10 speeds and a pouring shield \u2014 $150 off in select colors.",
+      "details": "KitchenAid's classic 5-quart tilt-head stand mixer with 10 speeds and a pouring shield — $150 off in select colors.",
       "id": "kitchenaid-artisan-5qt-mixer",
       "price": 349,
       "store": "Amazon",
@@ -165,7 +165,7 @@
     },
     {
       "category": "Home & Kitchen",
-      "details": "Dyson's lightweight cordless stick vacuum with a de-tangling Motorbar head \u2014 converts to a handheld and runs up to 40 minutes per charge.",
+      "details": "Dyson's lightweight cordless stick vacuum with a de-tangling Motorbar head — converts to a handheld and runs up to 40 minutes per charge.",
       "id": "dyson-v8-cordless-vacuum",
       "price": 279,
       "store": "Amazon",
@@ -175,7 +175,7 @@
     },
     {
       "category": "Flights & Travel",
-      "details": "Compare live fares to New York across airlines in Google Flights. Prices move fast \u2014 the cheapest dates go first.",
+      "details": "Compare live fares to New York across airlines in Google Flights. Prices move fast — the cheapest dates go first.",
       "id": "flights-to-new-york",
       "price": 118,
       "store": "Google Flights",
@@ -185,14 +185,44 @@
     },
     {
       "category": "Flights & Travel",
-      "details": "Compare live fares to Los Angeles across airlines in Google Flights. Prices move fast \u2014 the cheapest dates go first.",
+      "details": "Compare live fares to Los Angeles across airlines in Google Flights. Prices move fast — the cheapest dates go first.",
       "id": "flights-to-los-angeles",
       "price": 142,
       "store": "Google Flights",
       "title": "Flights to Los Angeles",
       "url": "https://www.google.com/travel/flights?q=flights+to+los+angeles",
       "wasPrice": 260
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "Apple's entry-level smartwatch with fitness, health and sleep tracking — the 40mm GPS model is $50 off at its all-time low for Black Friday.",
+      "id": "apple-watch-se-3-40mm",
+      "price": 199,
+      "store": "Amazon",
+      "title": "Apple Watch SE 3 (40mm, GPS)",
+      "url": "https://www.amazon.com/s?k=apple+watch+se+3",
+      "wasPrice": 249
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "Apple's item tracker for keys, bags and luggage with Precision Finding in the Find My app — at its all-time low price.",
+      "id": "apple-airtag-2-1-pack",
+      "price": 23,
+      "store": "Amazon",
+      "title": "Apple AirTag 2 (1-Pack)",
+      "url": "https://www.amazon.com/s?k=airtag+2",
+      "wasPrice": 29
+    },
+    {
+      "category": "Gaming",
+      "details": "The Switch 2 console bundled with a Mario Kart World download and 3 months of Switch Online — $50 off, the same price as the console alone.",
+      "id": "nintendo-switch-2-mario-kart-bundle",
+      "price": 499,
+      "store": "Walmart",
+      "title": "Nintendo Switch 2 + Mario Kart World Bundle",
+      "url": "https://www.walmart.com/search?q=nintendo+switch+2+mario+kart+world+bundle",
+      "wasPrice": 549
     }
   ],
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
 }
