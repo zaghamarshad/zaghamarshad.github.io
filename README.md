@@ -66,6 +66,10 @@ If a user writes in about a support or privacy link that does not work, ask whic
 
 After a change is pushed, wait for the GitHub Pages build to finish and reload the live page once before checking it again. If the old text is still showing, open the page in a private window to rule out a cached copy. Do not push the same fix a second time until the build has had time to update, or the repo ends up with duplicate commits for one change.
 
+## Checking support pages before a release
+
+Before an app update is submitted, open the support and privacy URLs saved in the listing and check they land on that app's folder, not an older app's page. Read the privacy page once against the build being submitted, so a service added in the update is named there before review, not after. Fix any mismatch in the repo first, then open the live page once more to confirm the new copy is showing.
+
 ---
 
 ## 📩 Contact Us
