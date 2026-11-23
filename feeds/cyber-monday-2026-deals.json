@@ -85,9 +85,9 @@
     },
     {
       "category": "Headphones & Audio",
-      "details": "Apple's flagship earbuds with active noise cancelling, spatial audio and heart-rate sensing during workouts — $70 off for Black Friday week.",
+      "details": "Apple's flagship earbuds with active noise cancelling, spatial audio and heart-rate sensing during workouts — $100 off for Black Friday week, its lowest price ever.",
       "id": "airpods-pro-3",
-      "price": 179,
+      "price": 149,
       "store": "Amazon",
       "title": "Apple AirPods Pro 3",
       "url": "https://www.amazon.com/s?k=airpods+pro+3",
@@ -105,9 +105,9 @@
     },
     {
       "category": "Tech & TVs",
-      "details": "Apple's newest smartwatch with health, fitness and sleep tracking — the 42mm GPS model is $70 off, its lowest price ever.",
+      "details": "Apple's newest smartwatch with health, fitness and sleep tracking — the 42mm GPS model is $100 off, its lowest price ever.",
       "id": "apple-watch-series-12",
-      "price": 329,
+      "price": 299,
       "store": "Amazon",
       "title": "Apple Watch Series 12 (42mm, GPS)",
       "url": "https://www.amazon.com/s?k=apple+watch+series+12",
@@ -195,9 +195,9 @@
     },
     {
       "category": "Tech & TVs",
-      "details": "Apple's entry-level smartwatch with fitness, health and sleep tracking — the 40mm GPS model is $50 off at its all-time low for Black Friday.",
+      "details": "Apple's entry-level smartwatch with fitness, health and sleep tracking — the 40mm GPS model is $70 off at its all-time low for Black Friday.",
       "id": "apple-watch-se-3-40mm",
-      "price": 199,
+      "price": 179,
       "store": "Amazon",
       "title": "Apple Watch SE 3 (40mm, GPS)",
       "url": "https://www.amazon.com/s?k=apple+watch+se+3",
@@ -222,7 +222,37 @@
       "title": "Nintendo Switch 2 + Mario Kart World Bundle",
       "url": "https://www.walmart.com/search?q=nintendo+switch+2+mario+kart+world+bundle",
       "wasPrice": 549
+    },
+    {
+      "category": "Headphones & Audio",
+      "details": "Beats' brand-new modular over-ear headphones with swappable knit cushions, strong noise cancelling and an IPX4 sweat-resistant build — $100 off, their lowest price ever.",
+      "id": "beats-360-headphones",
+      "price": 249,
+      "store": "Amazon",
+      "title": "Beats 360 Headphones",
+      "url": "https://www.amazon.com/s?k=beats+360+headphones",
+      "wasPrice": 349
+    },
+    {
+      "category": "Headphones & Audio",
+      "details": "Apple's flagship over-ear headphones with active noise cancelling, spatial audio and a premium aluminium build — $130 off at Amazon for Black Friday.",
+      "id": "airpods-max-2",
+      "price": 419,
+      "store": "Amazon",
+      "title": "Apple AirPods Max 2",
+      "url": "https://www.amazon.com/s?k=airpods+max+2",
+      "wasPrice": 549
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "Apple's new compact tablet with an 8.5-inch OLED display and the A20 Pro chip — the 128GB model is $100 off, its lowest price ever.",
+      "id": "ipad-mini-a20-pro",
+      "price": 599,
+      "store": "Amazon",
+      "title": "Apple iPad mini (A20 Pro, 128 GB)",
+      "url": "https://www.amazon.com/s?k=ipad+mini+a20+pro",
+      "wasPrice": 699
     }
   ],
-  "updated": "2026-11-22"
+  "updated": "2026-11-23"
 }
