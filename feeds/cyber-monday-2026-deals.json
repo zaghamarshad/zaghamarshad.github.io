@@ -205,9 +205,9 @@
     },
     {
       "category": "Tech & TVs",
-      "details": "Apple's item tracker for keys, bags and luggage with Precision Finding in the Find My app — at its all-time low price.",
+      "details": "Apple's item tracker for keys, bags and luggage with Precision Finding in the Find My app — at $18, its all-time low price.",
       "id": "apple-airtag-2-1-pack",
-      "price": 23,
+      "price": 18,
       "store": "Amazon",
       "title": "Apple AirTag 2 (1-Pack)",
       "url": "https://www.amazon.com/s?k=airtag+2",
@@ -252,7 +252,27 @@
       "title": "Apple iPad mini (A20 Pro, 128 GB)",
       "url": "https://www.amazon.com/s?k=ipad+mini+a20+pro",
       "wasPrice": 699
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "Apple's versatile stylus for iPad note-taking and sketching — pairs and charges over USB-C and attaches magnetically. At $49, its best price of the year.",
+      "id": "apple-pencil-usb-c",
+      "price": 49,
+      "store": "Amazon",
+      "title": "Apple Pencil (USB-C)",
+      "url": "https://www.amazon.com/s?k=apple+pencil+usb-c",
+      "wasPrice": 79
+    },
+    {
+      "category": "Laptops & Computers",
+      "details": "Apple's latest 13-inch MacBook Air with the M5 chip, 16GB of memory and a 512GB SSD — $310 off at Amazon, its lowest price in months.",
+      "id": "macbook-air-13-m5",
+      "price": 989,
+      "store": "Amazon",
+      "title": "Apple MacBook Air 13\" (M5 Chip, 512 GB)",
+      "url": "https://www.amazon.com/s?k=macbook+air+m5",
+      "wasPrice": 1299
     }
   ],
-  "updated": "2026-11-23"
+  "updated": "2026-11-24"
 }
