@@ -272,7 +272,37 @@
       "title": "Apple MacBook Air 13\" (M5 Chip, 512 GB)",
       "url": "https://www.amazon.com/s?k=macbook+air+m5",
       "wasPrice": 1299
+    },
+    {
+      "category": "Laptops & Computers",
+      "details": "HP's 14-inch 2K OLED touchscreen laptop with a sharp, vivid display — $350 off at Best Buy for Black Friday.",
+      "id": "hp-omnibook-5-14-oled",
+      "price": 449,
+      "store": "Best Buy",
+      "title": "HP OmniBook 5 14\" 2K OLED Touchscreen Laptop",
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=hp+omnibook+5+14+oled",
+      "wasPrice": 799
+    },
+    {
+      "category": "Home & Kitchen",
+      "details": "Shark's pet-friendly upright with a Lift-Away canister and floor detection — $236 off at Walmart for Black Friday.",
+      "id": "shark-detect-lift-away-adv",
+      "price": 144,
+      "store": "Walmart",
+      "title": "Shark Detect Lift-Away ADV Upright Vacuum",
+      "url": "https://www.walmart.com/search?q=shark+detect+lift-away+adv+upright+vacuum",
+      "wasPrice": 379
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "Samsung's fan-edition phone with a big bright display and Galaxy AI — $200 off unlocked at Best Buy.",
+      "id": "samsung-galaxy-s26-fe",
+      "price": 499,
+      "store": "Best Buy",
+      "title": "Samsung Galaxy S26 FE (128 GB, Unlocked)",
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=samsung+galaxy+s26+fe",
+      "wasPrice": 699
     }
   ],
-  "updated": "2026-11-24"
+  "updated": "2026-11-25"
 }
