@@ -422,6 +422,36 @@
       "title": "Samsung Galaxy S26 FE (128 GB, Unlocked)",
       "url": "https://www.bestbuy.com/site/searchpage.jsp?st=samsung+galaxy+s26+fe",
       "wasPrice": 699
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "Apple's entry-level 11-inch iPad with the A16 chip, 128GB of storage and an all-day battery - $70 off Apple's $449 list price for Black Friday.",
+      "id": "ipad-11-a16",
+      "price": 379,
+      "store": "Amazon",
+      "title": "Apple iPad 11\" (A16 Chip, 128 GB)",
+      "url": "https://www.amazon.com/s?k=ipad+11+a16",
+      "wasPrice": 449
+    },
+    {
+      "category": "Headphones & Audio",
+      "details": "Apple's open-ear earbuds with active noise cancelling, Adaptive Audio and a wireless charging case - $60 off, their second-best price ever.",
+      "id": "airpods-4-anc",
+      "price": 119,
+      "store": "Amazon",
+      "title": "Apple AirPods 4 with Active Noise Cancellation",
+      "url": "https://www.amazon.com/s?k=airpods+4+anc",
+      "wasPrice": 179
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "Google's flagship phone with the Tensor G5 chip, a triple camera with 5x telephoto and seven years of updates - $200 off at Amazon, its lowest price in three months.",
+      "id": "google-pixel-10-128gb",
+      "price": 599,
+      "store": "Amazon",
+      "title": "Google Pixel 10 (128 GB, Unlocked)",
+      "url": "https://www.amazon.com/s?k=google+pixel+10",
+      "wasPrice": 799
     }
   ],
   "updated": "2026-11-26"
