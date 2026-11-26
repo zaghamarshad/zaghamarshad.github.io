@@ -62,6 +62,10 @@ When a support or privacy page changes, note the date, the app folder, and what 
 
 If a user writes in about a support or privacy link that does not work, ask which app they were using and which link they tapped, then open that exact link yourself instead of the folder you expect it to be. Check whether the page loads, whether it is the page for that app, and whether the contact email on it works. Fix the link or the folder name that caused it, then open the fixed link once more before replying, so the answer points at a page that has been checked.
 
+## Replying to a support email
+
+When a user writes in, reply with the fix and a link to the support page for their app, not a general link to the site. Ask for the app name and version if the first message does not have them, and keep the reply short. If the answer already lives on a support page, link to that page instead of pasting the whole answer into the email, so the page stays the one place the answer is kept.
+
 ## If a live page still shows the old version
 
 After a change is pushed, wait for the GitHub Pages build to finish and reload the live page once before checking it again. If the old text is still showing, open the page in a private window to rule out a cached copy. Do not push the same fix a second time until the build has had time to update, or the repo ends up with duplicate commits for one change.
