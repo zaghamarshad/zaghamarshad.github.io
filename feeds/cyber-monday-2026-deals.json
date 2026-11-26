@@ -4,6 +4,126 @@
   },
   "deals": [
     {
+      "category": "Headphones & Audio",
+      "details": "Beats' over-ear headphones with active noise cancelling and up to 40 hours of battery — $99 at Walmart, its best price yet and $40 less than Best Buy or Target.",
+      "id": "beats-studio-pro-walmart",
+      "price": 99,
+      "store": "Walmart",
+      "title": "Beats Studio Pro Headphones",
+      "url": "https://www.walmart.com/search?q=beats+studio+pro",
+      "wasPrice": 299
+    },
+    {
+      "category": "Laptops & Computers",
+      "details": "Apple's 13.3-inch MacBook Pro with the M2 chip, 8GB of memory and a 256GB SSD — $610 at Best Buy, more than half off its $1,299 list price.",
+      "id": "macbook-pro-13-m2",
+      "price": 610,
+      "store": "Best Buy",
+      "title": "Apple MacBook Pro 13\" (M2 Chip)",
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=macbook+pro+13+m2",
+      "wasPrice": 1299
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "Geek Squad refurbished iPads from $150, including the 10.2-inch model — the cheapest way into an iPad this Black Friday.",
+      "id": "ipads-refurbished-best-buy",
+      "price": 150,
+      "store": "Best Buy",
+      "title": "Apple iPad (Geek Squad Refurbished)",
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=refurbished+ipad",
+      "wasPrice": 329
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "Sony's 85-inch 4K Google TV with Dolby Vision, Dolby Atmos and PlayStation 5 features — $848 at Amazon, its all-time low.",
+      "id": "sony-bravia-3-85-tv",
+      "price": 848,
+      "store": "Amazon",
+      "title": "Sony Bravia 3 85\" 4K Google TV",
+      "url": "https://www.amazon.com/s?k=sony+bravia+3+85+inch",
+      "wasPrice": 1599
+    },
+    {
+      "category": "Gaming",
+      "details": "Sony's PS5 controller with haptic feedback and adaptive triggers — $55 at Best Buy, $20 off for Black Friday.",
+      "id": "dualsense-wireless-controller-bestbuy",
+      "price": 55,
+      "store": "Best Buy",
+      "title": "PlayStation DualSense Controller",
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=dualsense+controller",
+      "wasPrice": 74
+    },
+    {
+      "category": "Gaming",
+      "details": "The hit PS5 exclusive starring Peter Parker and Miles Morales — $30 at Best Buy, down from $70.",
+      "id": "spiderman-2-ps5",
+      "price": 30,
+      "store": "Best Buy",
+      "title": "Marvel's Spider-Man 2 (PS5)",
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=spider-man+2+ps5",
+      "wasPrice": 70
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "Samsung's book-style foldable with 512GB of storage — refurbished model at $830, down from its $2,120 list price.",
+      "id": "galaxy-z-fold7-refurbished",
+      "price": 830,
+      "store": "Best Buy",
+      "title": "Samsung Galaxy Z Fold7 (Refurbished, 512 GB)",
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=galaxy+z+fold7",
+      "wasPrice": 2120
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "A refurbished iPhone 14 with 128GB of storage — $275 at Best Buy, down from its $799 list price when new.",
+      "id": "iphone-14-refurbished",
+      "price": 275,
+      "store": "Best Buy",
+      "title": "Apple iPhone 14 (Refurbished, 128 GB)",
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=iphone+14+refurbished",
+      "wasPrice": 799
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "$100 Best Buy gift card for $60 — in-store only on Black Friday, Nov 27, for My Best Buy members, one per customer while supplies last.",
+      "id": "best-buy-gift-card-100-60",
+      "price": 60,
+      "store": "Best Buy",
+      "title": "$100 Best Buy Gift Card",
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=best+buy+gift+card",
+      "wasPrice": 100
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "Anker's magnetic power bank with a built-in stand and fast charging — $85.99 in Anker's Black Friday sale, $24 off.",
+      "id": "anker-maggo-2-pro",
+      "price": 86,
+      "store": "Amazon",
+      "title": "Anker MagGo 2 Pro Magnetic Power Bank",
+      "url": "https://www.amazon.com/s?k=anker+maggo+2+pro",
+      "wasPrice": 110
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "Anker's pocket-size 45W wall charger with a smart display that shows charging status — $25.99 at Amazon, down from $35.99. A wall charger, not a power bank.",
+      "id": "anker-nano-charger-45w",
+      "price": 26,
+      "store": "Amazon",
+      "title": "Anker Nano Charger (45W, Smart Display)",
+      "url": "https://www.amazon.com/s?k=anker+nano+charger+45w+smart+display",
+      "wasPrice": 36
+    },
+    {
+      "category": "Laptops & Computers",
+      "details": "The full Office 2024 suite — Word, Excel, PowerPoint, Outlook, Access and Publisher — as a one-time lifetime license for one Windows PC, no subscription. $40 at StackSocial, down from $250.",
+      "id": "microsoft-office-2024-pro-plus",
+      "price": 40,
+      "store": "StackSocial",
+      "title": "Microsoft Office 2024 Professional Plus",
+      "url": "https://dealnews.com/Microsoft-Office-2024-Professional-Plus-for-Windows-Lifetime-License-for-40-digital-download/22424427.html",
+      "wasPrice": 250
+    },
+    {
       "category": "Laptops & Computers",
       "details": "Apple's thin-and-light 13-inch laptop with the M4 chip and all-day battery life — $250 off at Amazon, matching its lowest price.",
       "id": "macbook-air-13-m4",
@@ -302,126 +422,6 @@
       "title": "Samsung Galaxy S26 FE (128 GB, Unlocked)",
       "url": "https://www.bestbuy.com/site/searchpage.jsp?st=samsung+galaxy+s26+fe",
       "wasPrice": 699
-    },
-    {
-      "category": "Headphones & Audio",
-      "details": "Beats' over-ear headphones with active noise cancelling and up to 40 hours of battery — $99 at Walmart, its best price yet and $40 less than Best Buy or Target.",
-      "id": "beats-studio-pro-walmart",
-      "price": 99,
-      "store": "Walmart",
-      "title": "Beats Studio Pro Headphones",
-      "url": "https://www.walmart.com/search?q=beats+studio+pro",
-      "wasPrice": 299
-    },
-    {
-      "category": "Laptops & Computers",
-      "details": "Apple's 13.3-inch MacBook Pro with the M2 chip, 8GB of memory and a 256GB SSD — $610 at Best Buy, more than half off its $1,299 list price.",
-      "id": "macbook-pro-13-m2",
-      "price": 610,
-      "store": "Best Buy",
-      "title": "Apple MacBook Pro 13\" (M2 Chip)",
-      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=macbook+pro+13+m2",
-      "wasPrice": 1299
-    },
-    {
-      "category": "Tech & TVs",
-      "details": "Geek Squad refurbished iPads from $150, including the 10.2-inch model — the cheapest way into an iPad this Black Friday.",
-      "id": "ipads-refurbished-best-buy",
-      "price": 150,
-      "store": "Best Buy",
-      "title": "Apple iPad (Geek Squad Refurbished)",
-      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=refurbished+ipad",
-      "wasPrice": 329
-    },
-    {
-      "category": "Tech & TVs",
-      "details": "Sony's 85-inch 4K Google TV with Dolby Vision, Dolby Atmos and PlayStation 5 features — $848 at Amazon, its all-time low.",
-      "id": "sony-bravia-3-85-tv",
-      "price": 848,
-      "store": "Amazon",
-      "title": "Sony Bravia 3 85\" 4K Google TV",
-      "url": "https://www.amazon.com/s?k=sony+bravia+3+85+inch",
-      "wasPrice": 1599
-    },
-    {
-      "category": "Gaming",
-      "details": "Sony's PS5 controller with haptic feedback and adaptive triggers — $55 at Best Buy, $20 off for Black Friday.",
-      "id": "dualsense-wireless-controller-bestbuy",
-      "price": 55,
-      "store": "Best Buy",
-      "title": "PlayStation DualSense Controller",
-      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=dualsense+controller",
-      "wasPrice": 74
-    },
-    {
-      "category": "Gaming",
-      "details": "The hit PS5 exclusive starring Peter Parker and Miles Morales — $30 at Best Buy, down from $70.",
-      "id": "spiderman-2-ps5",
-      "price": 30,
-      "store": "Best Buy",
-      "title": "Marvel's Spider-Man 2 (PS5)",
-      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=spider-man+2+ps5",
-      "wasPrice": 70
-    },
-    {
-      "category": "Tech & TVs",
-      "details": "Samsung's book-style foldable with 512GB of storage — refurbished model at $830, down from its $2,120 list price.",
-      "id": "galaxy-z-fold7-refurbished",
-      "price": 830,
-      "store": "Best Buy",
-      "title": "Samsung Galaxy Z Fold7 (Refurbished, 512 GB)",
-      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=galaxy+z+fold7",
-      "wasPrice": 2120
-    },
-    {
-      "category": "Tech & TVs",
-      "details": "A refurbished iPhone 14 with 128GB of storage — $275 at Best Buy, down from its $799 list price when new.",
-      "id": "iphone-14-refurbished",
-      "price": 275,
-      "store": "Best Buy",
-      "title": "Apple iPhone 14 (Refurbished, 128 GB)",
-      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=iphone+14+refurbished",
-      "wasPrice": 799
-    },
-    {
-      "category": "Tech & TVs",
-      "details": "$100 Best Buy gift card for $60 — in-store only on Black Friday, Nov 27, for My Best Buy members, one per customer while supplies last.",
-      "id": "best-buy-gift-card-100-60",
-      "price": 60,
-      "store": "Best Buy",
-      "title": "$100 Best Buy Gift Card",
-      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=best+buy+gift+card",
-      "wasPrice": 100
-    },
-    {
-      "category": "Tech & TVs",
-      "details": "Anker's magnetic power bank with a built-in stand and fast charging — $85.99 in Anker's Black Friday sale, $24 off.",
-      "id": "anker-maggo-2-pro",
-      "price": 86,
-      "store": "Amazon",
-      "title": "Anker MagGo 2 Pro Magnetic Power Bank",
-      "url": "https://www.amazon.com/s?k=anker+maggo+2+pro",
-      "wasPrice": 110
-    },
-    {
-      "category": "Tech & TVs",
-      "details": "Anker's pocket-size 45W wall charger with a smart display that shows charging status — $25.99 at Amazon, down from $35.99. A wall charger, not a power bank.",
-      "id": "anker-nano-charger-45w",
-      "price": 26,
-      "store": "Amazon",
-      "title": "Anker Nano Charger (45W, Smart Display)",
-      "url": "https://www.amazon.com/s?k=anker+nano+charger+45w+smart+display",
-      "wasPrice": 36
-    },
-    {
-      "category": "Laptops & Computers",
-      "details": "The full Office 2024 suite — Word, Excel, PowerPoint, Outlook, Access and Publisher — as a one-time lifetime license for one Windows PC, no subscription. $40 at StackSocial, down from $250.",
-      "id": "microsoft-office-2024-pro-plus",
-      "price": 40,
-      "store": "StackSocial",
-      "title": "Microsoft Office 2024 Professional Plus",
-      "url": "https://dealnews.com/Microsoft-Office-2024-Professional-Plus-for-Windows-Lifetime-License-for-40-digital-download/22424427.html",
-      "wasPrice": 250
     }
   ],
   "updated": "2026-11-26"
