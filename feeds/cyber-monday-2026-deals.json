@@ -452,7 +452,27 @@
       "title": "Google Pixel 10 (128 GB, Unlocked)",
       "url": "https://www.amazon.com/s?k=google+pixel+10",
       "wasPrice": 799
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "The 2024 Paperwhite with a 7-inch glare-free display, warm light, waterproofing and up to 12 weeks of battery — $129.99 at Amazon, $70 off list, while the newer 2026 model stays at full price.",
+      "id": "kindle-paperwhite-2024-16gb",
+      "price": 129,
+      "store": "Amazon",
+      "title": "Amazon Kindle Paperwhite (2024, 16 GB)",
+      "url": "https://www.amazon.com/s?k=kindle+paperwhite",
+      "wasPrice": 199
+    },
+    {
+      "category": "Tech & TVs",
+      "details": "TCL's 65-inch 4K Fire TV with HDR and an Alexa voice remote — $229.99 at Best Buy, $240 off, one of the cheapest big screens of Black Friday.",
+      "id": "tcl-65-s4cf-4k-fire-tv",
+      "price": 229,
+      "store": "Best Buy",
+      "title": "TCL 65\" S4CF 4K Fire TV",
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=tcl+65+s4cf",
+      "wasPrice": 469
     }
   ],
-  "updated": "2026-11-26"
+  "updated": "2026-11-27"
 }
