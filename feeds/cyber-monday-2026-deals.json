@@ -472,7 +472,27 @@
       "title": "TCL 65\" S4CF 4K Fire TV",
       "url": "https://www.bestbuy.com/site/searchpage.jsp?st=tcl+65+s4cf",
       "wasPrice": 469
+    },
+    {
+      "category": "Headphones & Audio",
+      "details": "Apple's second-generation Pro earbuds with USB-C charging, active noise cancelling and up to 30 hours of total listening time with the case — $169 at Amazon, $80 off for Black Friday.",
+      "id": "airpods-pro-2-usb-c",
+      "price": 169,
+      "store": "Amazon",
+      "title": "Apple AirPods Pro 2 (USB-C)",
+      "url": "https://www.amazon.com/s?k=airpods+pro+2+usb-c",
+      "wasPrice": 249
+    },
+    {
+      "category": "Headphones & Audio",
+      "details": "Sony's former flagship noise-cancelling headphones with 30-hour battery life and crystal-clear hands-free calling — $169 at Best Buy, its all-time low and $60 less than Amazon's Black Friday price.",
+      "id": "sony-wh-1000xm5-best-buy",
+      "price": 169,
+      "store": "Best Buy",
+      "title": "Sony WH-1000XM5 Headphones",
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=sony+wh-1000xm5",
+      "wasPrice": 399
     }
   ],
-  "updated": "2026-11-27"
+  "updated": "2026-11-28"
 }
